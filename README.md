@@ -4,9 +4,11 @@
 **LondheShubham153/LondheShubham153** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Sandras Venkatesh](https://www.linkedin.com/in/venkatesh-sandras-577740253/), a Senior Staff Engineer (Development, DevOps, Platform Engineering) from [INDIA](https://en.wikipedia.org/wiki/India)🎯
+Hi there,👋I am [Sandras Venkatesh](https://www.linkedin.com/in/venkatesh-sandras-577740253/),from [INDIA](https://en.wikipedia.org/wiki/India)🎯
+I'm a passionate developer with expertise in Web Technologies, DevOps, and Cloud Computing. Over the years, I've had the privilege of working on a variety of projects, from building scalable web applications to automating infrastructure and deploying solutions to the cloud.I thrive on problem-solving and love exploring new tools and techniques to streamline development processes.I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀I'm always keen to collaborate, learn, and share knowledge.Feel free to check out my repositories, and don't hesitate to reach out if you'd like to connect!
 
-I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
+<!-- GIF -->
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
 
 
 <p float="left">
@@ -51,12 +53,18 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
   <a href="https://www.influxdata.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
   </a>
+  <a href="https://grafana.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" height="80"/>
+    </a>
     <a href="https://www.postgresql.org" target="_blank" >
     <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
   </a>
   </a>
     <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
+    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="80" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="80"/> 
   </a>
   
 </p>
