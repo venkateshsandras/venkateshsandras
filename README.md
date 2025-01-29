@@ -17,6 +17,13 @@ I'm a passionate developer with expertise in Web Technologies, DevOps, and Cloud
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://media4.giphy.com/media/aS0GZVzspYuro33Fxx/giphy.webp?cid=ecf05e47f5krw47seha713cm2l1m9sy7p08532g0k0df6b7j&ep=v1_gifs_related&rid=giphy.webp&ct=s"  height="75" />
   </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHBmMXQwZm5mZmpkeXJ2OWxpODV4ZGJzZGhybXdid3dxZWlkeGJ6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H2ZJx4F0jZYg8vGn3F/giphy.gif" alt="nodejs" height="105"/> 
+  </a>
+   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="75" height="75"/> 
+   </a> 
+
   
   ### Programming Languages
 <p float="left">
@@ -53,6 +60,8 @@ I'm a passionate developer with expertise in Web Technologies, DevOps, and Cloud
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
+    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" height="80" width="80"/>
+  </a>
  </p>
   
 ### Databases and Monitoring
@@ -76,6 +85,8 @@ I'm a passionate developer with expertise in Web Technologies, DevOps, and Cloud
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"  height="80"/> 
   </a>
+ 
+
   
 </p>
 
